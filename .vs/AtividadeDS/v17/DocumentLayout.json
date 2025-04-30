@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\AtividadeDS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2657B0-A595-480C-A451-1DE1E22C2235}|AtividadeDS\\AtividadeDS.csproj|c:\\users\\lenovo\\source\\repos\\atividadeds\\atividadeds\\filabanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2657B0-A595-480C-A451-1DE1E22C2235}|AtividadeDS\\AtividadeDS.csproj|solutionrelative:atividadeds\\filabanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2657B0-A595-480C-A451-1DE1E22C2235}|AtividadeDS\\AtividadeDS.csproj|c:\\users\\lenovo\\source\\repos\\atividadeds\\atividadeds\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2657B0-A595-480C-A451-1DE1E22C2235}|AtividadeDS\\AtividadeDS.csproj|solutionrelative:atividadeds\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2657B0-A595-480C-A451-1DE1E22C2235}|AtividadeDS\\AtividadeDS.csproj|c:\\users\\lenovo\\source\\repos\\atividadeds\\atividadeds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2657B0-A595-480C-A451-1DE1E22C2235}|AtividadeDS\\AtividadeDS.csproj|solutionrelative:atividadeds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\AtividadeDS\\AtividadeDS\\Menu.cs",
+              "RelativeDocumentMoniker": "AtividadeDS\\Menu.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\AtividadeDS\\AtividadeDS\\Menu.cs",
+              "RelativeToolTip": "AtividadeDS\\Menu.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAApwBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T00:54:17.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilaBanco.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\AtividadeDS\\AtividadeDS\\FilaBanco.cs",
+              "RelativeDocumentMoniker": "AtividadeDS\\FilaBanco.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\AtividadeDS\\AtividadeDS\\FilaBanco.cs",
+              "RelativeToolTip": "AtividadeDS\\FilaBanco.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T00:51:15.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\AtividadeDS\\AtividadeDS\\Program.cs",
+              "RelativeDocumentMoniker": "AtividadeDS\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\AtividadeDS\\AtividadeDS\\Program.cs",
+              "RelativeToolTip": "AtividadeDS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T00:49:27.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
